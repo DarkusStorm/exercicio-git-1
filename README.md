@@ -15,3 +15,5 @@ git branch "nome da branch"
 git switch "nome da branch"
 git checkout "nome da branch"
 ```
+
+(O arquivo README está curto e incompleto pois houve um problema/conflito que não foi resolvido pelo programador e portanto, ele optou por reiniciar as instruções.)
