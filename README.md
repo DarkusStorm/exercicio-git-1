@@ -9,3 +9,9 @@ git clone "link do repositório"
 ```bash
 git branch "nome da branch"
 ```
+
+# Alterando o ramo que as alterações/commits serão feitos.
+```bash
+git switch "nome da branch"
+git checkout "nome da branch"
+```
